@@ -1,1 +1,2 @@
-# neural_net_template
+# NN Template
+My implementation of a neural network.
